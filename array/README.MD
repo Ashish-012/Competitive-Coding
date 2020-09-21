@@ -23,3 +23,7 @@
 #### 11) Perfect Peak of array - https://www.interviewbit.com/problems/perfect-peak-of-array/
 
 #### 12) Wave Array - https://www.interviewbit.com/problems/wave-array/
+
+#### 13) Minimum length unsorted subarray - https://www.interviewbit.com/problems/maximum-unsorted-subarray/
+
+#### 14) Pascal's Triangle - https://www.geeksforgeeks.org/pascal-triangle/
