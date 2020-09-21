@@ -5,7 +5,7 @@
 	at index i is not same as in i-1, overwrite the `j`th element with i and increment j. So 
 	basically j will always point to the index where there is a duplicate number and we can 
 	overwrite it when i point to a new number. In the end we return j which will be the number
-	of unique numbers in the array.   
+	of unique elements in the array.   
 '''
 
 n = int(input())

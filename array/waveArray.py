@@ -1,5 +1,5 @@
 '''
-	For interview bit they were asking for the lexicographic order as there could be 
+	In interview bit they were asking for the lexicographic order as there could be 
 	multiple solutions for the question. So the solution would be to sort all the elements 
 	in the array and then swap every 2nd element with its neighbouring right element. But this 
 	solution has a O(nlogn) complexity. The commented solution will execute in interviewbit

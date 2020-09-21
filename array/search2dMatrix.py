@@ -1,9 +1,9 @@
 '''
 	We can do binary search in a row or a column and traverse rest or the row
 	and column but the complexity in such case would be O(nlogn)
-	So this is ladder approach. Initialise a pointer which is pointing to the
-	last column of first row. If the number at that position is greater than
-	the required number increment the row. If it is smaller than the required 
+	So to decrease the complexity we use ladder search approach. Initialise a pointer
+	which is pointing to the last column of first row. If the number at that position is
+	greater than the required number increment the row. If it is smaller than the required 
 	number decrement the column.
 '''
 mat = [ [10, 20, 30, 40], 
