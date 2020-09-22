@@ -27,3 +27,11 @@
 #### 13) Minimum length unsorted subarray - https://www.interviewbit.com/problems/maximum-unsorted-subarray/
 
 #### 14) Pascal's Triangle - https://www.geeksforgeeks.org/pascal-triangle/
+
+#### 15) First Missing Integer - https://www.interviewbit.com/problems/first-missing-integer/
+
+#### 16) Min Steps in Infinite Grid - https://www.interviewbit.com/problems/min-steps-in-infinite-grid/
+
+#### 17) Noble integer - https://www.interviewbit.com/problems/noble-integer/
+
+#### 18) Add One To Number - https://www.interviewbit.com/problems/add-one-to-number/
