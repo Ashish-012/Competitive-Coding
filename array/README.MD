@@ -35,3 +35,5 @@
 #### 17) Noble integer - https://www.interviewbit.com/problems/noble-integer/
 
 #### 18) Add One To Number - https://www.interviewbit.com/problems/add-one-to-number/
+
+#### 19) Find a peak element - https://www.interviewbit.com/problems/find-a-peak-element/
