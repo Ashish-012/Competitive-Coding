@@ -37,3 +37,12 @@
 #### 18) Add One To Number - https://www.interviewbit.com/problems/add-one-to-number/
 
 #### 19) Find a peak element - https://www.interviewbit.com/problems/find-a-peak-element/
+
+#### 20) Rotated Array - https://www.interviewbit.com/problems/rotated-array/
+
+#### 21) Rotated Array 2- https://www.interviewbit.com/problems/rotated-sorted-array-search/
+
+#### 22) Max Non Negative SubArray - https://www.interviewbit.com/problems/max-non-negative-subarray/
+
+#### 23) All Triplets with sum k - https://www.hackerrank.com/contests/launchpad-1-winter-challenge/challenges/find-triplets-that-sum-to-x/problem
+
