@@ -46,3 +46,11 @@
 
 #### 23) All Triplets with sum k - https://www.hackerrank.com/contests/launchpad-1-winter-challenge/challenges/find-triplets-that-sum-to-x/problem
 
+#### 24) Boolean Matrix - https://www.geeksforgeeks.org/a-boolean-matrix-question/
+
+#### 25) Maximum Distance - https://www.interviewbit.com/problems/max-distance/
+
+#### 26) Move all zeroes to end of array - https://www.geeksforgeeks.org/move-zeroes-end-array/
+
+#### 27) Maximum Subarray - https://www.hackerrank.com/challenges/maxsubarray/problem
+
