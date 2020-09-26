@@ -6,27 +6,27 @@
 	values of our main array.
 '''
 
+arr = [ [1, 0, 0, 1], 
+        [0, 0, 1, 0], 
+        [0, 0, 0, 0] ]
+   
+m = 3
+n = 4
 
-t = int(input())							 # number of test cases
-for i in range(t):   
-    m,n = map(int, input().split())          # number of row and column
-    arr = []
-    for i in range(m):
-        a = list(map(int, input().split()))   
-        arr.append(a)						  # reading the array
+r = [0]*m
+c = [0]*n
+for i in range(m):
+    for j in range(n):
+        if arr[i][j] == 1:
+            r[i] = 1
+            c[j] = 1
 
-    r = [0]*m
-    c = [0]*n
-    for i in range(m):
-        for j in range(n):
-            if arr[i][j] == 1:
-                r[i] == 1
-                c[j] == 1
-    for i in range(m):
-        for j in range(n):
-            if r[i] == 1 or c[j] == 1:
-                arr[i][j] ==1
-    print(t+1)
-    for i in arr:
-        x = " ".join(i)
-        print(x)
+for i in range(m):
+    for j in range(n):
+        if r[i] == 1 or c[j] == 1:
+            arr[i][j] =1
+
+for i in arr:
+    x = " ".join(map(str,i))
+    print(x)
+
