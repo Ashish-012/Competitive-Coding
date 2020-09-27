@@ -54,3 +54,4 @@
 
 #### 27) Maximum Subarray - https://www.hackerrank.com/challenges/maxsubarray/problem
 
+#### 28) Max Min - https://www.hackerrank.com/contests/week-1-1598888826/challenges/angry-children/problem
