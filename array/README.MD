@@ -12,8 +12,7 @@
 |[Matrix 90 degree rotation](https://www.hackerrank.com/contests/cs1300-odd-2014/challenges/array-rotation)|[matrixRotation.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/array/matrixRotation.py)|
 |[Search in a 2d sorted matrix](https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/)|[search2dMatrix.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/array/search2dMatrix.py)|
 |[Perfect Peak of array](https://www.interviewbit.com/problems/perfect-peak-of-array/)|[perfectPeak.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/array/perfectPeak.py)|
-|[Wave Array](https://www.interviewbit.com/problems/perfect-peak-of-array/)|[search2dMatrix.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/array/search2dMatrix.py)|
-|[Search in a 2d sorted matrix](https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/)|[waveArray.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/array/waveArray.py)|
+|[Wave Array](https://www.interviewbit.com/problems/wave-array/)|[waveArray.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/array/waveArray.py)|
 |[Minimum length unsorted subarray](https://www.interviewbit.com/problems/maximum-unsorted-subarray/)|[minUnsortedSubarray.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/array/minUnsortedSubarray.py)|
 |[Pascal's Triangle](https://www.geeksforgeeks.org/pascal-triangle/)|[pascalTriangle.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/array/pascalTriangle.py)|
 |[First Missing Integer](https://www.interviewbit.com/problems/first-missing-integer/)|[firstMissingInteger.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/array/firstMissingInteger.py)|
