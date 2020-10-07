@@ -6,7 +6,7 @@
 |[Leaders in array](https://www.hackerrank.com/contests/gcfl3/challenges/leaders-in-array-2/problem) |[leadersInArray.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/array/leadersInArray.py)|
 |[Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem)|[countingSort.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/array/countingSort.py)|
 |[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)|[arrayLeftRotation.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/array/arrayLeftRotation.py)|
-|[Missing Numbers](https://www.hackerrank.com/contests/test-contest-39/challenges/missing-number-in-array/problem)|[pairs.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/array/missingNumber.py)|
+|[Missing Numbers](https://www.hackerrank.com/contests/test-contest-39/challenges/missing-number-in-array/problem)|[missingNumber.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/array/missingNumber.py)|
 |[Remove Duplicates from Sorted Array](https://www.hackerrank.com/contests/doyoulikeit/challenges/remove-duplicates-from-sorted-array)|[removeDuplicates.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/array/removeDuplicates.py)|
 |[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)|[closestNumbers.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/array/closestNumbers.py)|
 |[Matrix 90 degree rotation](https://www.hackerrank.com/contests/cs1300-odd-2014/challenges/array-rotation)|[matrixRotation.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/array/matrixRotation.py)|
