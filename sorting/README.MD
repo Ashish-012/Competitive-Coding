@@ -6,4 +6,4 @@
  |[Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/)|[bubbleSort.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/sorting/bubbleSort.py)|n^2|n^2|n^2|O(1)|Yes|Yes|
  |[Selection Sort](https://www.geeksforgeeks.org/selection-sort/)|[selectionSort.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/sorting/selectionSort.py)|n^2|n^2|n^2|O(1)|No|Yes|
  |[Insertion Sort](https://www.geeksforgeeks.org/insertion-sort/)|[insertionSort.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/sorting/insertionSort.py)|n^2|n^2|n|O(1)|Yes|Yes|
- |[Merge Sort](https://www.geeksforgeeks.org/merge-sort/)|[mergeSort.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/sorting/mergeSort.py)|log(n)|log(n)|log(n)|n|Yes|No|
+ |[Merge Sort](https://www.geeksforgeeks.org/merge-sort/)|[mergeSort.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/sorting/mergeSort.py)|log(n)|log(n)|log(n)|O(n)|Yes|No|
