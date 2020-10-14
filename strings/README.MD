@@ -9,3 +9,5 @@
 #### 4) Anagram checker - https://www.hackerrank.com/contests/crescent-practice-1st-and-2nd-year/challenges/anagram-3/problem
 
 #### 5) Making Anagram - https://www.hackerrank.com/challenges/ctci-making-anagrams/problem
+
+#### 6) Anagram Substring Seach - https://www.geeksforgeeks.org/anagram-substring-search-search-permutations/
