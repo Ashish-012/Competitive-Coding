@@ -11,3 +11,5 @@
 #### 5) Making Anagram - https://www.hackerrank.com/challenges/ctci-making-anagrams/problem
 
 #### 6) Anagram Substring Seach - https://www.geeksforgeeks.org/anagram-substring-search-search-permutations/
+
+#### 7) Find A Sub-Word - https://www.hackerrank.com/contests/week-3-1600101075/challenges/find-substring/problem
