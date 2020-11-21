@@ -1,12 +1,14 @@
-# Some Linked List questions
-
+# Linked List questions
+### HackerRank
 |Questions                                                                                         |      Solutions                  |
 |--------------------------------------------------------------------------------------------------|--------------------------------|
-|[printList](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) |[printList.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/miscellaneous/printList.py)|
-|[insertEnd](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) |[insertEnd.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/linkedlist/insertEnd.py)|
-|[insertHead](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem) |[insertHead.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/linkedlist/insertHead.py)|
-|[insertatN](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) |[insertatN.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/linkedlist/insertatN.py)|
-|[deleteNode](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) |[deleteNode.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/linkedlist/deleteNode.py)|
-|[printReverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem) |[printReverse.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/linkedlist/printReverse.py)|
-|[compareList](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem) |[compareList.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/linkedlist/deleteNode.py)|
-|[reverseList](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) |[reverseList.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/linkedlist/reverseList.py)|
+|[Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) |[printList.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/miscellaneous/printList.py)|
+|[Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) |[insertEnd.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/linkedlist/insertEnd.py)|
+|[Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem) |[insertHead.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/linkedlist/insertHead.py)|
+|[Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) |[insertatN.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/linkedlist/insertatN.py)|
+|[Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) |[deleteNode.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/linkedlist/deleteNode.py)|
+|[Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem) |[printReverse.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/linkedlist/printReverse.py)|
+|[Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem) |[compareList.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/linkedlist/deleteNode.py)|
+|[Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) |[reverseList.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/linkedlist/reverseList.py)|
+|[Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem) |[getNodeValue.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/linkedlist/getNodeValue.py)|
+|[Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem) |[deleteDuplicate.py](https://github.com/Ashish-012/Competitive-Coding/blob/master/linkedlist/deleteDuplicate.py)|
